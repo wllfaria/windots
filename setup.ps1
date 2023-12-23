@@ -11,6 +11,8 @@ if (-not $wingetInstalled) {
 
 # We gaming
 winget install -e --id Valve.Steam
+winget install -e --id RiotGames.Valorant.BR
+winget install -e --id RiotGames.Valorant.BR
 
 # We util
 winget install -e --id Spotify.Spotify
